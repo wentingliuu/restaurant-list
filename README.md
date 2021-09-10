@@ -25,7 +25,7 @@ npm install  //安裝套件
 ```
 npm run dev
 ```
-終端顯示 `Express is running on http://localhost:3000` 即啟動完成，請至 http://localhost:3000 開啟程式
+終端顯示 `Express is listening on localhost:3000` 即啟動完成，請至 http://localhost:3000 開啟程式
 
 
 ## 環境建置與需求 (prerequisites)
