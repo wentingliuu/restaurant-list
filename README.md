@@ -6,6 +6,7 @@
 *  透過搜尋「餐廳名稱」尋找特定餐廳
 *  透過搜尋「餐廳類別」尋找特定餐廳
 
+
 ### 安裝與執行步驟 (Installation and Execution)
 1.  打開你的 terminal 將此專案 clone 到本機電腦
 ```
@@ -24,8 +25,9 @@ npm run dev
 ```
 終端顯示 `Express is running on http://localhost:3000` 即啟動完成，請至 http://localhost:3000 開啟程式
 
+
 ### 環境建置與需求 (prerequisites)
-Visual Studio Code - development environment
-Node.js & npm - JavaScript runtime environment
-Express.js - web application framework
-Express-Handlebars - template engine
+*  Visual Studio Code - development environment
+*  Node.js & npm - JavaScript runtime environment
+*  Express.js - web application framework
+*  Express-Handlebars - template engine
